@@ -2,7 +2,9 @@
 ABC
 將DEF刪除測試q2133445665
 branch1 Branch2 
-branch1增加11111
+<<<<<<< HEAD
+branch1增加11111 2222222
+
 
 
 
